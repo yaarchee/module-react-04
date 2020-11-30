@@ -1,0 +1,20 @@
+.movieWrap{
+  max-width: 1050px;
+  width: 100%;
+}
+
+
+.moviesDescWrap{
+  display: flex;
+}
+
+.movieDesc{
+  padding: 20px;
+}
+.movieDesc span{
+  font-weight: bold;
+}
+
+.genres{
+  display: flex;
+}

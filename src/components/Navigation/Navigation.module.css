@@ -1,0 +1,9 @@
+.navLink{
+    margin: 10px;
+    color: black;
+}
+
+.navLinkActive{
+    color: #9c4543;
+    composes: navLink;
+}
